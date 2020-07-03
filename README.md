@@ -1,8 +1,6 @@
 Image Slider Using:
 
-Carousel
-Axios
-Material UI
+Carousel, Axios and Material UI
 
 ## Available Scripts
 
