@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `node src/server.js`
 
-Open [http://localhost:3000](http://localhost:5000) to view it in the browser.
+Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 ## Client
 
