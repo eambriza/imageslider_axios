@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <header
+      class="MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorPrimary makeStyles-appBar-14 mui-fixed MuiPaper-elevation1"
+    >
+      <div
+        class="MuiToolbar-root MuiToolbar-regular makeStyles-appbarcolor-15 MuiToolbar-gutters"
+      >
+        <div
+          class="MuiAvatar-root MuiAvatar-circle"
+        >
+          <img
+            alt="bnry digital"
+            class="MuiAvatar-img"
+            src="./BNRY-Digital.png"
+          />
+        </div>
+      </div>
+    </header>
+  </div>
+  <div
+    class="makeStyles-banner-17"
+  >
+    <h5
+      class="MuiTypography-root makeStyles-title-16 MuiTypography-h5"
+    >
+      <p>
+         BNRY Image Slider Test 
+      </p>
+    </h5>
+  </div>
+  <div
+    class="makeStyles-slider-18"
+  >
+    <div
+      class="makeStyles-body-21"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation9 MuiPaper-rounded"
+      >
+        <button
+          class="makeStyles-containerImgBtnP-24"
+          data-placement="top"
+          data-toggle="tooltip"
+          title=""
+        />
+        <button
+          class="makeStyles-containerImgBtnN-23"
+          data-placement="top"
+          data-toggle="tooltip"
+          title=""
+        />
+      </div>
+    </div>
+    <div
+      class="makeStyles-legend-19"
+    >
+      <h6
+        class="MuiTypography-root makeStyles-desc-20 MuiTypography-h6"
+      />
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-btn-25"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Prev
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-btn-25"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Next
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <footer
+      class="makeStyles-footer-26"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body2"
+      >
+        Copyright © 2020 | Designed By : EA, All rights reserved. 
+      </p>
+    </footer>
+  </div>
+</DocumentFragment>
+`;
